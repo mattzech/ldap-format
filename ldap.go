@@ -1,4 +1,5 @@
 package ldap-format
+package hello
 
 import (
 	"fmt"
