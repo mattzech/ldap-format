@@ -1,5 +1,5 @@
 package ldap-format
-
+package hi
 import (
 	"fmt"
 	"strings"
